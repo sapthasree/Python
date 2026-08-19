@@ -1,0 +1,3 @@
+Hello,
+This is the source file
+from this file, we can copy it to the destination file.
